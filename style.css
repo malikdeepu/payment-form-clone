@@ -1,0 +1,30 @@
+*{
+    border-radius: 15px;
+}
+
+
+.container{
+    align-content: center;
+    padding: 25px;
+    border: 5px solid;
+    width: 60%;
+    box-shadow: 5px 5px 15px;
+    height: 60vw;
+}
+
+h1{
+    font-size: 500%;
+}
+.pay{
+    width: 15vh;
+    align-items: center;
+    float: right;
+    margin-right: 50%;
+    font-size: 120%;
+    background-color: aqua;  
+}
+.pay:hover{
+    background-color: green;
+    width: 20vh;
+    font-size: 130%;
+}
